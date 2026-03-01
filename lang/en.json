@@ -1162,6 +1162,11 @@
   "RequestRolls": "Request Rolls"
 },
 
+"DICE.GROUP_CHECK": {
+  "RequiresGM": "Only the Gamemaster can initiate group checks.",
+  "SkillPickerTitle": "Group Skill Check"
+},
+
 "ACTIVE_EFFECT": {
   "ACTIONS": {
     "New": "New Effect",
